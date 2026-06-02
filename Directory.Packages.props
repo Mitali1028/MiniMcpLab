@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Aspire.Hosting.AppHost" Version="13.1.0" />
+    <PackageVersion Include="ModelContextProtocol" Version="1.0.0" />
+    <PackageVersion Include="ModelContextProtocol.AspNetCore" Version="1.0.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AppHost/AppHost.csproj" />
+  <Project Path="McpClient/McpClient.csproj" />
+  <Project Path="ToolServer/ToolServer.csproj" />
+</Solution>
